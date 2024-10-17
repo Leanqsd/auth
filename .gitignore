@@ -1,0 +1,23 @@
+# Ignorar node_modules
+node_modules/
+
+# Ignorar archivos de entorno
+.env
+
+# Ignorar archivos de compilación
+dist/
+build/
+
+# Ignorar archivos de logs
+*.log
+
+# Ignorar archivos temporales
+tmp/
+temp/
+
+# Ignorar archivos específicos
+.DS_Store
+Thumbs.db
+
+# Ignorar cualquier archivo con extensión .tmp
+*.tmp
